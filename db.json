@@ -1,5 +1,8 @@
 {
   "servidores":[],
   "procuradores":[],
-  "usuarios":[]
+  "usuarios":[],
+  "profile": {
+    "name": "typicode"
+  }
 }
