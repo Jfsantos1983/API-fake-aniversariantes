@@ -1,6 +1,13 @@
 {
   "servidores":[],
-  "procuradores":[],
+  "procuradores":[
+    {
+      "nome":"teste",
+      "email":"teste@teste.com",
+      "tipo":1,
+      "id":1
+    }
+  ],
   "usuarios":[],
   "profile": {
     "name": "typicode"
